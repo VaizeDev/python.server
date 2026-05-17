@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    max-width: 700px;
+}
+
+button {
+    padding: 8px 14px;
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+input {
+    padding: 8px;
+}
+
+pre {
+    background: #a5e2d3;
+    padding: 22px;
+    border-radius: 45px;
+}
